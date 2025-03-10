@@ -2,7 +2,9 @@
     <img src="https://raw.githubusercontent.com/15Galan/42_project-readmes/master/banners/cursus/projects/ft_printf-light.png#gh-light-mode-only" alt="Banner (claro)" />
     <img src="https://raw.githubusercontent.com/15Galan/42_project-readmes/master/banners/cursus/projects/ft_printf-dark.png#gh-dark-mode-only" alt="Banner (oscuro)" />
     <br>
-    This project aims to redo in C the printf() function. This will primarily teach you how to handle a variable number of arguments.
+    This project aims to redo in C the printf() function.
+    <br>
+    This will primarily teach you how to handle a variable number of arguments.
     <br><br>
     <a href='https://profile.intra.42.fr/users/dsarmien' target="_blank" style="text-decoration: none;">
         <img alt='42 Málaga' src='https://img.shields.io/badge/Málaga-black?style=for-the-badge&logo=42&logoColor=white'/>
